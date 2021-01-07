@@ -8,5 +8,6 @@ public class TestCreateSign {
     public void testSign()
     {
         System.out.println(new CreateSign().sign("hey girl"));
+
     }
 }
